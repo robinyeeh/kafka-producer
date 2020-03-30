@@ -63,6 +63,8 @@ $ ./kafka_producer 127.0.0.1:9092 test_topic
 ### Example Results
 
 ```
-msg offset: 0, partition: 0, timestamp: 0001-01-01 00:00:00 +0000 UTC, value: asdad
-msg offset: 1, partition: 0, timestamp: 0001-01-01 00:00:00 +0000 UTC, value: asdasad 
+Input [asdad]
+Offset : 0, timestamp : 0001-01-01 00:00:00 +0000 UTCasdad
+Input [asdad]
+Offset : 1, timestamp : 0001-01-01 00:00:00 +0000 UTCasdads
 ```
